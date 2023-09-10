@@ -14,3 +14,4 @@ body, html {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    background: conic-gradient(#ff0084, transparent 20%, #ffbf00, transparent 20%);
