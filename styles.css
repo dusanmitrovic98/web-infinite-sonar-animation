@@ -17,3 +17,4 @@ body, html {
     background: conic-gradient(#ff0084, transparent 20%, #ffbf00, transparent 20%);
     border-radius: 50%;
     animation: rotate 10s linear infinite;
+}
