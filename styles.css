@@ -10,3 +10,4 @@ body, html {
 .sonar {
     width: 400px;
     height: 400px;
+    position: absolute;
