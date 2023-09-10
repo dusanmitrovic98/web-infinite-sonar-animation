@@ -19,3 +19,4 @@ body, html {
     animation: rotate 10s linear infinite;
 }
 
+@keyframes rotate {
